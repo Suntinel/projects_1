@@ -1,5 +1,5 @@
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Roврврптапw 1    | Celатаптаптl 2   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   |
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
