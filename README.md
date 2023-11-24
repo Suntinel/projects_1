@@ -7,4 +7,9 @@
 | Row 1         | **Bold**       | Cell 3        |
 | Row 2         | **Bold**       | Cell 6        |
 | Row 3         | **Bold**       | Cell 9        |
+| Row 3         | **Bold**       | Cell 9        |
+| Row 3         | **Bold**       | Cell 9        |
+| Row 1         | **Bold**       | Cell 3        |
+| Row 2         | **Bold**       | Cell 6        |
+| Row 3         | **Bold**       | Cell 9        |
 | Row 3         | [Link](dot.com) | Cell 9        |
