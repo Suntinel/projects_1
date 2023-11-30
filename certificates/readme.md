@@ -8,4 +8,5 @@
 3. Курс теории вероятностей, Чистяков В.П.
 
 https://gleb.center/ - SQL для Анализа Данных с Глебом Михайловым
-https://www.youtube.com/watch?v=GZvgUcK2oEA - канал Глеба Михайлов.
+
+https://www.youtube.com/watch?v=GZvgUcK2oEA - канал Глеба Михайлова
