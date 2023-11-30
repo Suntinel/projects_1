@@ -5,7 +5,7 @@
 
 https://t.me/Suntinel — предпочитаемый способ связи
 
-[Сертификаты, книги и ссылки Сертификаты о прохождении курсов](https://github.com/Suntinel/projects_1/tree/d98799460340fdd1d452614f5718581ed264c164/certificates)
+[Сертификаты, книги и ссылки](https://github.com/Suntinel/projects_1/tree/d98799460340fdd1d452614f5718581ed264c164/certificates)
 
 Все проекты выполнены в ноутбуке, преимущественно Jupiter notebook и Google Collab, дата сеты не приложены. Приведен только готовый вариант.
 
