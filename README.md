@@ -5,6 +5,7 @@
 4.	Оставить Сертификаты, книги и ссылки? Особо нечем заполнить))) 
 
 https://t.me/Suntinel — предпочитаемый способ связи
+suntinel@gmail.com
 
 [Сертификаты, книги и ссылки](https://github.com/Suntinel/projects_1/tree/d98799460340fdd1d452614f5718581ed264c164/certificates)
 
