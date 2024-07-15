@@ -9,6 +9,6 @@
 2. Четвертая промышленная революция, Шваб Клаус
 3. Курс теории вероятностей, Чистяков В.П.
 
-https://gleb.center/ - SQL для Анализа Данных с Глебом Михайловым
+https://karpov.courses/simulator-sql - SQL АНАТОЛИЙ КАРПОВ
 
 https://www.youtube.com/watch?v=GZvgUcK2oEA - канал Глеба Михайлова
